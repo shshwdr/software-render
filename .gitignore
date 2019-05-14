@@ -1,0 +1,7 @@
+# =============== #
+# VS generated #
+# =============== #
+Debug
+*.vcxproj
+*.filters
+*.user
